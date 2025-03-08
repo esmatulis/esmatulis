@@ -1,7 +1,14 @@
-## Hi there 👋
+<h1> Prazer! Meu nome é Erica Matulis 👋 </h1>
 
-<!--
-**esmatulis/esmatulis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#
+<h2>Sobre mim 👩</h2>
+
+<div>
+  <p>Desenvolvedora front-end e back-end</p>
+</div>
+
+<div style="font-size: 12px">Formada em Estatística e Psicologia pela Universidade de Toronto.
+Constantemente adquirindo novos conhecimentos e habilidades através de cursos e desenvolvimento de projetos.</div>
 
 Here are some ideas to get you started:
 
@@ -13,4 +20,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
